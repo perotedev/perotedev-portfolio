@@ -58,7 +58,7 @@ if (USE_GITHUB_DATA === "true") {
   });
   const default_options = {
     hostname: "api.github.com",
-    path: "/perotedev",
+    path: "/graphql",
     port: 443,
     method: "POST",
     headers: {
