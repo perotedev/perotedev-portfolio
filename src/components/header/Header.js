@@ -57,8 +57,8 @@ function Header() {
           )}
           {viewBigProjects && (
             <li>
-            <a href="#projects">Projetos</a>
-          </li>
+              <a href="#projects">Projetos</a>
+            </li>
           )}
           {viewOpenSource && (
             <li>

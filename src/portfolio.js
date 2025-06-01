@@ -49,15 +49,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "O que faço?",
-  subTitle: "PLANEJO, DESENVOLVO E FAÇO MANUTENÇÃO DE APLICAÇÕES EM DIFERENTES STACKS.",
+  subTitle:
+    "PLANEJO, DESENVOLVO E FAÇO MANUTENÇÃO DE APLICAÇÕES EM DIFERENTES STACKS.",
   skills: [
     emoji(
       "⚡ Desenvolvimento de interfaces de usuário altamente interativas para suas aplicações web e mobile"
     ),
     emoji("⚡ Aplicações Web Progressivas (PWA) em stacks normais e SPA"),
-    emoji(
-      "⚡ Integração com serviços de terceiros como Firebase/ GCP / AWS"
-    )
+    emoji("⚡ Integração com serviços de terceiros como Firebase/ GCP / AWS")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -278,7 +277,8 @@ const bigProjects = {
     {
       // image: require("./assets/images/saayaHealthLogo.webp"),
       projectName: "TaurusOne",
-      projectDesc: "Sistema de gerenciamento de demandas e serviços em tempo real.",
+      projectDesc:
+        "Sistema de gerenciamento de demandas e serviços em tempo real.",
       footerLink: [
         {
           name: "Visite a página",
@@ -413,8 +413,7 @@ const resumeSection = {
 
 const contactInfo = {
   title: emoji("Contato ☎️"),
-  subtitle:
-    "Quer discutir um projeto ou apenas dar um oi?",
+  subtitle: "Quer discutir um projeto ou apenas dar um oi?",
   // number: "+92-0000000000",
   email_address: "rodripema@hotmail.com"
 };

@@ -62,7 +62,7 @@ export default function EducationCard({school}) {
               </div>
               {school.dissertationLink && (
                 <div className="education-dissertation-link">
-                  <a 
+                  <a
                     href={school.dissertationLink}
                     target="_blank"
                     rel="noopener noreferrer"
