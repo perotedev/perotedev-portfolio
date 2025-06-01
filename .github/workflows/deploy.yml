@@ -21,13 +21,12 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Setup Node.js 🔧
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 21.x
-
-      - name: Update npm 🚀
-        run: npm install -g npm@latest
+          node-version: '20.17.0'
+      - name: Install npm@11.4.1
+        run: npm install -g npm@11.4.1
 
       - name: Install and Build 🔧 # Build the Project
         run: |
