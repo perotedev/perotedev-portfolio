@@ -265,12 +265,12 @@ const bigProjects = {
     },
     {
       // image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "AppComando",
+      projectName: "SISPMAM",
       projectDesc: "Aplicativo para o auxílio de operações policiais.",
       footerLink: [
         {
           name: "Visite a página",
-          url: "https://play.google.com/store/apps/details?id=pmam.com.br.comandomobileuser&hl=pt_BR"
+          url: "https://play.google.com/store/apps/details?id=br.com.pmam.copmam&hl=pt_BR&pli=1"
         }
       ]
     },
