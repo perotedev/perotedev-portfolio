@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/perotedev-portfolio/static/css/main.cd3fbac4.css",
-    "main.js": "/perotedev-portfolio/static/js/main.71bf6657.js",
+    "main.js": "/perotedev-portfolio/static/js/main.c155991e.js",
     "static/css/64.bba8fa55.chunk.css": "/perotedev-portfolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.ff50fc9a.chunk.js": "/perotedev-portfolio/static/js/64.ff50fc9a.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/perotedev-portfolio/static/css/769.b3cbb36b.chunk.css",
@@ -41,7 +41,7 @@
     "static/media/talksCardBack.svg": "/perotedev-portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "static/media/fastapiLogo.svg": "/perotedev-portfolio/static/media/fastapiLogo.94483869820739786e71.svg",
     "main.cd3fbac4.css.map": "/perotedev-portfolio/static/css/main.cd3fbac4.css.map",
-    "main.71bf6657.js.map": "/perotedev-portfolio/static/js/main.71bf6657.js.map",
+    "main.c155991e.js.map": "/perotedev-portfolio/static/js/main.c155991e.js.map",
     "64.bba8fa55.chunk.css.map": "/perotedev-portfolio/static/css/64.bba8fa55.chunk.css.map",
     "64.ff50fc9a.chunk.js.map": "/perotedev-portfolio/static/js/64.ff50fc9a.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/perotedev-portfolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -49,6 +49,6 @@
   },
   "entrypoints": [
     "static/css/main.cd3fbac4.css",
-    "static/js/main.71bf6657.js"
+    "static/js/main.c155991e.js"
   ]
 }
