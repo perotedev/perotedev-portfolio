@@ -208,7 +208,7 @@ const workExperiences = {
     {
       role: "Desenvolvedor de Software Full Stack",
       company: "Polícia Militar do Amazonas",
-      companylogo: require("./assets/images/pmamLogo.jpg"),
+      companylogo: require("./assets/images/pmamLogo.png"),
       headerHex: "#0F6754",
       date: "Outubro 2021 – Fevereiro 2024",
       desc: "Desenvolvimento e manutenção de sistemas web e mobile, atuando com tecnologias como Angular, Spring Boot, Yii2, Android nativo, além de bancos de dados MySQL e MongoDB.",
