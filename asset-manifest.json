@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/perotedev-portfolio/static/css/main.9ce86bc8.css",
-    "main.js": "/perotedev-portfolio/static/js/main.5083940c.js",
+    "main.js": "/perotedev-portfolio/static/js/main.05dd8665.js",
     "static/css/64.bba8fa55.chunk.css": "/perotedev-portfolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.ff50fc9a.chunk.js": "/perotedev-portfolio/static/js/64.ff50fc9a.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/perotedev-portfolio/static/css/769.b3cbb36b.chunk.css",
@@ -10,8 +10,8 @@
     "static/media/perotedev3.png": "/perotedev-portfolio/static/media/perotedev3.e1fbae055c8c4b991355.png",
     "static/media/perotedev2.png": "/perotedev-portfolio/static/media/perotedev2.ba774b4f3432738a1cd0.png",
     "static/media/stanfordLogo.png": "/perotedev-portfolio/static/media/stanfordLogo.5a8e3a0a00949c93a9b8.png",
+    "static/media/pmamLogo.png": "/perotedev-portfolio/static/media/pmamLogo.34de27a7435de1b1b81e.png",
     "static/media/Montserrat-Regular.ttf": "/perotedev-portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/pmamLogo.jpg": "/perotedev-portfolio/static/media/pmamLogo.dbf19fa66bce0af4a327.jpg",
     "static/media/Agustina.woff": "/perotedev-portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/contactMail.webp": "/perotedev-portfolio/static/media/contactMail.298a597edb8258fc13e5.webp",
     "static/media/manOnTable.svg": "/perotedev-portfolio/static/media/manOnTable.8f117eb207e57ed8f89d.svg",
@@ -41,7 +41,7 @@
     "static/media/talksCardBack.svg": "/perotedev-portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "static/media/fastapiLogo.svg": "/perotedev-portfolio/static/media/fastapiLogo.94483869820739786e71.svg",
     "main.9ce86bc8.css.map": "/perotedev-portfolio/static/css/main.9ce86bc8.css.map",
-    "main.5083940c.js.map": "/perotedev-portfolio/static/js/main.5083940c.js.map",
+    "main.05dd8665.js.map": "/perotedev-portfolio/static/js/main.05dd8665.js.map",
     "64.bba8fa55.chunk.css.map": "/perotedev-portfolio/static/css/64.bba8fa55.chunk.css.map",
     "64.ff50fc9a.chunk.js.map": "/perotedev-portfolio/static/js/64.ff50fc9a.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/perotedev-portfolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -49,6 +49,6 @@
   },
   "entrypoints": [
     "static/css/main.9ce86bc8.css",
-    "static/js/main.5083940c.js"
+    "static/js/main.05dd8665.js"
   ]
 }
