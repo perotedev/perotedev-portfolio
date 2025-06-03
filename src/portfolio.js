@@ -241,6 +241,28 @@ const bigProjects = {
   projects: [
     {
       // image: require("./assets/images/saayaHealthLogo.webp"),
+      projectName: "Projex Instituicional",
+      projectDesc: "Página instituicional da Projex Consulting.",
+      footerLink: [
+        {
+          name: "Visite a página",
+          url: "https://www.projexsystem.com"
+        }
+      ]
+    },
+    {
+      // image: require("./assets/images/saayaHealthLogo.webp"),
+      projectName: "Energin Sustentabilidade",
+      projectDesc: "Página instituicional da Energim Sustentabilidade.",
+      footerLink: [
+        {
+          name: "Visite a página",
+          url: "https://energinam.com.br/pt-BR/"
+        }
+      ]
+    },
+    {
+      // image: require("./assets/images/saayaHealthLogo.webp"),
       projectName: "Portal da PMAM",
       projectDesc: "Portal de serviços de notícias da PMAM.",
       footerLink: [
@@ -283,28 +305,6 @@ const bigProjects = {
         {
           name: "Visite a página",
           url: "https://taurusone.com.br"
-        }
-      ]
-    },
-    {
-      // image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Projex Instituicional",
-      projectDesc: "Página instituicional da Projex Consulting.",
-      footerLink: [
-        {
-          name: "Visite a página",
-          url: "https://www.projexsystem.com"
-        }
-      ]
-    },
-    {
-      // image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Energin Sustentabilidade",
-      projectDesc: "Página instituicional da Energim Sustentabilidade.",
-      footerLink: [
-        {
-          name: "Visite a página",
-          url: "https://energinam.com.br/pt-BR/"
         }
       ]
     }
