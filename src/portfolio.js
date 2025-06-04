@@ -241,8 +241,8 @@ const bigProjects = {
   projects: [
     {
       // image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Projex Instituicional",
-      projectDesc: "Página instituicional da Projex Consulting.",
+      projectName: "Projex Institucional",
+      projectDesc: "Página institucional da Projex Consulting.",
       footerLink: [
         {
           name: "Visite a página",
