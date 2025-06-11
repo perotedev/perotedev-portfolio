@@ -295,7 +295,7 @@ const bigProjects = {
           url: "https://play.google.com/store/apps/details?id=br.com.pmam.copmam&hl=pt_BR&pli=1"
         }
       ]
-    },
+    }
     // {
     //   // image: require("./assets/images/saayaHealthLogo.webp"),
     //   projectName: "TaurusOne",
