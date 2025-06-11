@@ -273,18 +273,18 @@ const bigProjects = {
         //  you can add extra buttons here.
       ]
     },
-    {
-      // image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "SMI - Sistema Modular Integrado",
-      projectDesc: "Sistema de controle e gerenciamento de material.",
-      footerLink: [
-        {
-          name: "Visite a página",
-          url: "https://smi.pm.am.gov.br"
-        }
-        //  you can add extra buttons here.
-      ]
-    },
+    // {
+    //   // image: require("./assets/images/saayaHealthLogo.webp"),
+    //   projectName: "SMI - Sistema Modular Integrado",
+    //   projectDesc: "Sistema de controle e gerenciamento de material.",
+    //   footerLink: [
+    //     {
+    //       name: "Visite a página",
+    //       url: "https://smi.pm.am.gov.br"
+    //     }
+    //     //  you can add extra buttons here.
+    //   ]
+    // },
     {
       // image: require("./assets/images/saayaHealthLogo.webp"),
       projectName: "SISPMAM",
@@ -296,18 +296,18 @@ const bigProjects = {
         }
       ]
     },
-    {
-      // image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "TaurusOne",
-      projectDesc:
-        "Sistema de gerenciamento de demandas e serviços em tempo real.",
-      footerLink: [
-        {
-          name: "Visite a página",
-          url: "https://taurusone.com.br"
-        }
-      ]
-    }
+    // {
+    //   // image: require("./assets/images/saayaHealthLogo.webp"),
+    //   projectName: "TaurusOne",
+    //   projectDesc:
+    //     "Sistema de gerenciamento de demandas e serviços em tempo real.",
+    //   footerLink: [
+    //     {
+    //       name: "Visite a página",
+    //       url: "https://taurusone.com.br"
+    //     }
+    //   ]
+    // }
   ],
   display: true // Set false to hide this section, defaults to true
 };
