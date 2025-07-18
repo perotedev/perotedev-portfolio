@@ -31,7 +31,7 @@ function Header() {
   return (
     <Headroom>
       <header className={isDark ? "dark-menu header" : "header"}>
-        <a href="/perotedev-portfolio/" className="logo">
+        <a href="/" className="logo">
           <span className="grey-color"> &lt;</span>
           <span className={isDark ? "logo-name text-light" : "logo-name"}>
             {greeting.username}
