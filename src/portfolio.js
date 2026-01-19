@@ -200,7 +200,7 @@ const workExperiences = {
         "Arquitetura de Software",
         "Desenvolvimento frontend e backend",
         "Comunicação em tempo real com WebSockets",
-        "Angular e integração com Spring Boot, SQL Server, Redis e Docker",
+        "Angular e integração com Spring Boot, SQL Server, Redis e Docker"
       ]
     },
     {
@@ -298,7 +298,7 @@ const bigProjects = {
         }
         //  you can add extra buttons here.
       ]
-    },
+    }
     // {
     //   // image: require("./assets/images/saayaHealthLogo.webp"),
     //   projectName: "SMI - Sistema Modular Integrado",
