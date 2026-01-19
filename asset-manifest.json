@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.50ec2279.css",
-    "main.js": "/static/js/main.aed80e9c.js",
+    "main.js": "/static/js/main.0f772892.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.ff50fc9a.chunk.js": "/static/js/64.ff50fc9a.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -20,6 +20,7 @@
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a.svg",
     "static/media/googleAssistantLogo.webp": "/static/media/googleAssistantLogo.f720c71652579588524a.webp",
     "static/media/airbnbLogo.png": "/static/media/airbnbLogo.e8497507db673acd3991.png",
+    "static/media/foxconn.jpg": "/static/media/foxconn.597aa8daa6df9be788c8.jpg",
     "static/media/programmer.svg": "/static/media/programmer.becd1465cc28d37ba166.svg",
     "static/media/jsFramework.svg": "/static/media/jsFramework.6f29b1988f86d14c7845.svg",
     "static/media/granfaculdadeLogo.png": "/static/media/granfaculdadeLogo.d58ddaf52e8bb7a29010.png",
@@ -40,7 +41,7 @@
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "static/media/fastapiLogo.svg": "/static/media/fastapiLogo.94483869820739786e71.svg",
     "main.50ec2279.css.map": "/static/css/main.50ec2279.css.map",
-    "main.aed80e9c.js.map": "/static/js/main.aed80e9c.js.map",
+    "main.0f772892.js.map": "/static/js/main.0f772892.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.ff50fc9a.chunk.js.map": "/static/js/64.ff50fc9a.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -48,6 +49,6 @@
   },
   "entrypoints": [
     "static/css/main.50ec2279.css",
-    "static/js/main.aed80e9c.js"
+    "static/js/main.0f772892.js"
   ]
 }
