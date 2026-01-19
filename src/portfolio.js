@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Rodrigo Perote",
+  username: "PeroteDev",
   title: "Oi, sou o Perote",
   subTitle: emoji(
     "Um engenheiro de software 🚀 com experiência na arquitetura e construção de aplicações Web e Mobile com Angular / Spring Boot / FastAPI / Android e outras bibliotecas e frameworks interessantes."
@@ -190,10 +190,25 @@ const workExperiences = {
   experience: [
     {
       role: "Desenvolvedor de Software Full Stack",
+      company: "Foxconn",
+      companylogo: require("./assets/images/foxconn.jpg"),
+      headerHex: "#0A3593",
+      date: "Dezembro 2025 – Presente",
+      desc: "Atuação em Pesquisa e Desenvolvimento (P&D), participando do ciclo completo de desenvolvimento, desde a análise técnica até a implementação, prezando pela qualidade e segurança da aplicação.",
+      descBullets: [
+        "Análise de requisitos",
+        "Arquitetura de Software",
+        "Desenvolvimento frontend e backend",
+        "Comunicação em tempo real com WebSockets",
+        "Angular e integração com Spring Boot, SQL Server, Redis e Docker",
+      ]
+    },
+    {
+      role: "Desenvolvedor de Software Full Stack",
       company: "Projex Consulting",
       companylogo: require("./assets/images/projexLogo.jpg"),
       headerHex: "#B0EA0F",
-      date: "Fevereiro 2024 – Presente",
+      date: "Fevereiro 2024 – Novembro 2025",
       desc: "Desenvolvimento de aplicações web responsivas, atuando desde a análise de requisitos até a entrega e manutenção de sistemas. Trabalho em favor da padronização visual e orientação técnica da equipe.",
       descBullets: [
         "Análise de Requisitos",
@@ -241,6 +256,17 @@ const bigProjects = {
   projects: [
     {
       // image: require("./assets/images/saayaHealthLogo.webp"),
+      projectName: "PDF Generator",
+      projectDesc: "Aplicativo desktop para automação de PDFs.",
+      footerLink: [
+        {
+          name: "Visite a página",
+          url: "https://pdfgenerator.perotedev.com"
+        }
+      ]
+    },
+    {
+      // image: require("./assets/images/saayaHealthLogo.webp"),
       projectName: "Projex Institucional",
       projectDesc: "Página institucional da Projex Consulting.",
       footerLink: [
@@ -285,17 +311,17 @@ const bigProjects = {
     //     //  you can add extra buttons here.
     //   ]
     // },
-    {
-      // image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "SISPMAM",
-      projectDesc: "Aplicativo para o auxílio de operações policiais.",
-      footerLink: [
-        {
-          name: "Visite a página",
-          url: "https://play.google.com/store/apps/details?id=br.com.pmam.copmam&hl=pt_BR&pli=1"
-        }
-      ]
-    }
+    // {
+    //   // image: require("./assets/images/saayaHealthLogo.webp"),
+    //   projectName: "SISPMAM",
+    //   projectDesc: "Aplicativo para o auxílio de operações policiais.",
+    //   footerLink: [
+    //     {
+    //       name: "Visite a página",
+    //       url: "https://play.google.com/store/apps/details?id=br.com.pmam.copmam&hl=pt_BR&pli=1"
+    //     }
+    //   ]
+    // }
     // {
     //   // image: require("./assets/images/saayaHealthLogo.webp"),
     //   projectName: "TaurusOne",
